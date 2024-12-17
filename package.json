@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@pbe/react-yandex-maps": "^1.2.5",
+    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "next": "15.1.0",
     "react": "^19.0.0",
